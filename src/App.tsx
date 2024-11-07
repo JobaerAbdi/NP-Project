@@ -1,8 +1,8 @@
-
+import Login from "./pages/login";
 const App = () => {
   return (
     <div>
-      <h1>This is new project</h1>
+      <Login />
     </div>
   );
 };
